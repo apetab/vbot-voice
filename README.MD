@@ -29,3 +29,7 @@
     ],
 ],
 ```
+
+加载
+-------
+`$vbot->messageExtension->load([ \Apetab\VbotVoice\VoiceTranslation::class ]);`
