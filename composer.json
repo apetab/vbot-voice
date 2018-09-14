@@ -1,0 +1,12 @@
+{
+    "name": "apetab/vbot-voice-translation",
+    "description": "vbot 语音自动转文字",
+    "require": {
+        "qiniu/php-sdk": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Apetab\\VbotVoice\\": "src/"
+        }
+    }
+}
